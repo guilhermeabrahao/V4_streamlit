@@ -163,10 +163,10 @@ with main_col1:
 FATURAMENTO_MAP = {
     "Não informado/Não se aplica": "faturamento_nao_informado",
     "Até R$100k (-100)": "faturamento_ate_100k", 
-    "R$100k a R$200k (-100)": "faturamento_100_200k", 
-    "R$200k a R$400k (0)": "faturamento_200_400k", 
-    "R$401k a R$1M (+30)": "faturamento_401k_1M", 
-    "R$1M a R$4M (+30)": "faturamento_1M_4M"
+    "100k a 200k (-100)": "faturamento_100_200k", 
+    "200k a 400k (0)": "faturamento_200_400k", 
+    "401k a 1M (+30)": "faturamento_401k_1M", 
+    "1M a 4M (+30)": "faturamento_1M_4M"
 }
 INTERESSE_MAP = {
     "Não informado/Outro": "interesse_outro",
