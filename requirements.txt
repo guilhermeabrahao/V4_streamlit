@@ -3,5 +3,6 @@ openai
 selenium
 python-dotenv
 requests
+webdriver-manager
 # Para o webdriver, o script original sugere instalar chromium-chromedriver via apt
 # Se for usar webdriver-manager, adicione: webdriver-manager
